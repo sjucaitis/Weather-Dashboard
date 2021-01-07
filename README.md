@@ -1,4 +1,4 @@
-##Weather Dashboard
+# Weather Dashboard
 
 This application retrieves data using the Open Weather API to create a weather dashboard that runs in the browser, featuring dynamically updated HTML and CSS.
 
