@@ -6,7 +6,7 @@ This application retrieves data using the Open Weather API to create a weather d
 
 For the traveler looking to see current and future weather conditions for multiple cities, to plan (and pack) accordingly.
 
-The user is presented with a button grid containing city buttons. The user may add new cities which will automatically appear in the button gride. 
+The user is presented with a button grid containing city buttons. The user may add new cities which will automatically appear in the button grid.
 
 When the user selects a city, current weather conditions for the chosen location are displayed, together with a 5-day weather forecast for the user's desired destination.
 
